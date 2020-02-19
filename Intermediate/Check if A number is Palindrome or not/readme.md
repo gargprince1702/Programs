@@ -13,6 +13,8 @@ input:-
 896
 output:-
 False
+
+Palindrome is a number which when reversed gives the original number itself.
  
 
 
