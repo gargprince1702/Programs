@@ -6,7 +6,7 @@ int main()
 	int n;
 	cout<<"Enter a positive number to check Prime or Not ";
 	cin>>n;
-  int flag = 0;
+  	int flag = 0;
 	for(int i=2;i<n;i++)
 	{
 		if(n%i==0)
@@ -14,7 +14,7 @@ int main()
 	}
 	if(flag==0)
 	{
-		cout<<"Yes"; //If a Given number is Prime
+		cout<<"Yes"; //If a Given number is Prime NUMBER
 	}
 	else
 	{
