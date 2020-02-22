@@ -6,7 +6,7 @@ int main()
 	int n;
 	cout<<"Enter a positive number to check Prime or Not ";
 	cin>>n;
-        int flag = 0;
+  int flag = 0;
 	for(int i=2;i<n;i++)
 	{
 		if(n%i==0)
