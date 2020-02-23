@@ -7,7 +7,7 @@ Programming Language:- C
 IDE :- Dev c++ ,Turbo C
 Basic Knowledge of OS and DAA 
 
-#_______________________________________________________________________________________________________________________________________
+#____________________________________________________________________________________________________________________________________
 
 # Contribution Guidelines
 - A working Program should be pushed.
@@ -28,7 +28,9 @@ Basic Knowledge of OS and DAA 
 - You have pushed your solution to the repository.
 
 # How to Write a Program
-// Example to write a clean code
+```cpp
+   
+    // Example to write a clean code
   
 // A program to finds a Factorial of a Number
 #include<iostream>
@@ -54,6 +56,12 @@ int main()
 	return 0; 
 }
 // This code is contributed by gargprince1702
+
+
+```
+
+
+
  
  
 
