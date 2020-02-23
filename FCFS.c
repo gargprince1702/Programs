@@ -2,7 +2,7 @@
 int main(){
 int bt[20],wt[20],tat[20],i,n;
 float wtavg,tatavg;
-printf("\n Enter the number of processes --");
+printf("\n Enter all the number of processes --");
 scanf("%d",&n);
 for(i=0;i<n;i++){
 printf("\n Enter Burst time for process %d --",i);
